@@ -1,0 +1,13 @@
+
+# main links
+main:
+  - title: "Welcome"
+    url: /Welcome/
+  - title: "My CV in brief"
+    url: /My CV in brief/
+  - title: "Research"
+    url: /Research/
+  - title: "Publications"
+    url: /publications/
+  - title: "Contact"
+    url: /Contact/
